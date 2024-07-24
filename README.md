@@ -1,4 +1,4 @@
-#Repó oka
+# Repó oka
 
 Magam által hosztolt jelszó generátort telepítettem innen: https://github.com/jocxfin/pwgen 
 Az alkalmazásnak meg lehet adni saját szólistát is github raw txt forrásból, amiből jelmondatot tud generálni.
